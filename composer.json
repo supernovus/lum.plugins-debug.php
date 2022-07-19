@@ -1,0 +1,41 @@
+{
+  "name": "lum/lum-plugins-debug",
+  "description": "A Core plugin extension of the Debug library",
+  "license": "MIT",
+  "authors":
+  [
+    {
+      "name": "Timothy Totten",
+      "email": "supernovus@gmail.com",
+      "role": "Original Author"
+    }
+  ],
+  "require":
+  {
+    "lum/lum-compat": "^2.6",
+    "lum/lum-core": "^3.0",
+    "lum/debug": "^1.0"
+  },
+  "require-dev":
+  {
+    "lum/lum-test": "^3.0"
+  },
+  "autoload":
+  {
+    "psr-4":
+    {
+      "Lum\\Plugins": "lib"
+    }
+  },
+  "scripts":
+  {
+    "test": "lumtest"
+  },
+  "extra":
+  {
+    "branch-alias":
+    {
+      "dev-main": "1.x-dev"
+    }
+  }
+}
