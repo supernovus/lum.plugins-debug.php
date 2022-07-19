@@ -14,7 +14,7 @@
   {
     "lum/lum-compat": "^2.6",
     "lum/lum-core": "^3.0",
-    "lum/debug": "^1.0"
+    "lum/lum-debug": "^1.0"
   },
   "require-dev":
   {
@@ -24,7 +24,7 @@
   {
     "psr-4":
     {
-      "Lum\\Plugins": "lib"
+      "Lum\\Plugins\\": "lib"
     }
   },
   "scripts":
