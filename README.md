@@ -2,30 +2,19 @@
 
 ## Summary
 
-A plugins-debugeton for new Lum.php packages.
+A plugin for [lum-core](https://github.com/supernovus/lum.core.php) which
+is an extension of the [lum-debug](https://github.com/supernovus/lum.debug.php)
+library.
 
 ## Namespace
 
-`Lum\Skel`
+`Lum\Plugins`
 
 ### Classes
 
 | Name                    | Description                                       |
 | ----------------------- | ------------------------------------------------- |
-| Lum\Skel\ClassName      | A short description of the class.                 |
-
-### Traits
-### Interfaces
-### Functions
-### Constants
-
-#### `Lum\Skel\AnotherItem`
-
-Another way to list items is using a sub-list.
-
-## CLI Scripts
-
-List any command line scripts in a `bin` directory here.
+| Lum\Plugins\Debug       | A Core plugin extending the Debug library.        |
 
 ## Official URLs
 

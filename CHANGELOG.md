@@ -6,9 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.0] - 2022-06-22
+## [1.0.0] - 2022-07-19
 ### Added
 - Initial release.
+- After a few typos and corrections.
 
 [Unreleased]: https://github.com/supernovus/lum.plugins-debug.php/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/supernovus/lum.plugins-debug.php/releases/tag/v1.0.0
